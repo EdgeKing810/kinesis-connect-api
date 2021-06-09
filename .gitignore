@@ -1,0 +1,6 @@
+.deno_plugins/
+.env
+nohup*
+
+temp_uploads/
+uploads/
